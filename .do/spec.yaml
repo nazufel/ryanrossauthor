@@ -1,0 +1,20 @@
+alerts:
+- rule: DEPLOYMENT_FAILED
+- rule: DOMAIN_FAILED
+domains:
+- domain: ryanrossauthor.com
+  type: PRIMARY
+  zone: ryanrossauthor.com
+name: ryanrossauthorsite
+region: nyc
+static_sites:
+- build_command: yarn build
+  environment_slug: gatsby
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: nazufel/ryanrossauthor
+  name: ryanrossauthor
+  routes:
+  - path: /
+  source_dir: /
