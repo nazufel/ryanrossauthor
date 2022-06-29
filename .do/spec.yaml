@@ -1,0 +1,13 @@
+name: ryan-ross-author
+region: nyc
+static_sites:
+- build_command: npm run build && npm run preview
+  environment_slug: node-js
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: nazufel/ryanrossauthor
+  name: ryanrossauthor
+  routes:
+  - path: /
+  source_dir: ./svelte-kit
