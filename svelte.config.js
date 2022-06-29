@@ -11,6 +11,9 @@ const config = {
 		  postcss: true,
 		}),
 	  ],
+  experimental: {
+    useVitePreprocess: true
+  }
 };
 
 export default config;
