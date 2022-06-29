@@ -31,7 +31,7 @@
                 <p class="text-white">I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
                     I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a hostile jungle, it&apos;s the people who we can identify with.</p>
                 <br />
-                <p>If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
+                <p class="text-white">If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
               </div>
             </div>
           </div>
