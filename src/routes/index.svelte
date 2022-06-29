@@ -9,8 +9,6 @@
             <div class="max-w-md">
                 <h1 class="text-5xl text-secondary font-bold">Ryan Ross</h1>
                 <p class="py-6">Awesome stories are coming.</p>
-                <!-- <p class="py-6">Awesome stories are coming. Please up to be notified.</p> -->
-                <!-- <button class="btn btn-primary">Sign Up</button> -->
             </div>
             </div>
         </div>
@@ -39,4 +37,13 @@
           </div>
     </div>
 
+    <!-- <div class="lg:container mx-auto flex flex-col justify-center items-center">
+        <form action="https://exoticmatterstudios.us9.list-manage.com/subscribe/post?u=dc5c4c9d852b9d701e2ad04e5&amp;id=8e1710bb73" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div class="form-control flex flex-row content-around p-10">
+                <input type="text" placeholder="email@example.com" class="input input-bordered input-primary w-full max-w-xs m-5" />
+                <button class="btn btn-primary m-5">Subscribe</button>
+            </div>
+        </form>
+    </div> -->
 </html>
+
