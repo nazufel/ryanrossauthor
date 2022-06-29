@@ -21,14 +21,19 @@
     </div>
 
     <div class="lg:container mx-auto flex flex-col justify-center items-center">
-        <div class="card lg:card-side bg-neutral shadow-xl m-10 w-sm">
-            <figure><img src="{authorPic}" alt="author"></figure>
+        <div class="card lg:card bg-neutral shadow-xl m-10 w-sm">
+            <div class="avatar">
+                <div class="w-24 m-12 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+                <img src="{authorPic}" alt="author">
+                </div>
+              </div>
             <div class="card-body">
               <h2 class="card-title text-3xl text-secondary">Hello There</h2>
               <div>
                 <p>I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
-                    I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a jungle, it&apos;s the people who we can identify with.
-                    If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
+                    I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a hostile jungle, it&apos;s the people who we can identify with.</p>
+                <br />
+                <p>If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
               </div>
             </div>
           </div>
