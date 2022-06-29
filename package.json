@@ -1,7 +1,4 @@
 {
-	"engines": {
-		"node": "<=14.15.0"
-	  },
 	"name": "ryanrossauthor",
 	"version": "0.0.1",
 	"scripts": {
