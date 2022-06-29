@@ -8,7 +8,7 @@
             <div class="hero-content text-center">
             <div class="max-w-md">
                 <h1 class="text-5xl text-secondary font-bold">Ryan Ross</h1>
-                <p class="py-6">Awesome stories are coming.</p>
+                <p class="py-6 text-white">Awesome stories are coming.</p>
             </div>
             </div>
         </div>
@@ -28,7 +28,7 @@
             <div class="card-body">
               <h2 class="card-title text-3xl text-secondary">Hello There</h2>
               <div>
-                <p>I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
+                <p class="text-white">I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
                     I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurdling through space using amazing technology or trying to light a survival fire using ship wreckage in a hostile jungle, it&apos;s the people who we can identify with.</p>
                 <br />
                 <p>If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
