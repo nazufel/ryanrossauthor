@@ -2,11 +2,30 @@
     let authorPic = '/ryanross.png';
 </script>
 
+<!-- <style>
+
+    .hero {
+        animation: transitionIn 0.5s duration timing-function delay iteration-count direction fill-mode;
+    }
+    @keyframes transitionIn {
+        from {
+            opacity: 0;
+            transform: rotateX(-10deg)
+        }
+        
+        to {
+            opacity: 1;
+            transform: rotateX(0)
+
+        }
+    }
+</style> -->
+
 <html lang="en">
     <div class="hero">
         <div class="hero min-h-screen bg-base-200">
             <div class="hero-content text-center">
-            <div class="max-w-md">
+            <div class="max-w-md transition ease-in">
                 <h1 class="text-5xl text-secondary font-bold">Ryan Ross</h1>
                 <p class="py-6 text-white">Awesome stories are coming.</p>
             </div>
@@ -31,7 +50,7 @@
                 <p class="text-white">I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
                     I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurtling through space using amazing technology or trying to light a survival fire using ship wreckage in a hostile jungle, it&apos;s the people who we can identify with.</p>
                 <br />
-                <p class="text-white">If that sounds like something you&apos;re into, then place join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
+                <p class="text-white">If that sounds like something you&apos;re into, then please join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
               </div>
             </div>
           </div>
