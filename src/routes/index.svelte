@@ -29,8 +29,8 @@
             </div>
             </div>
         </div>
-        <div class=" flex items-center absolute bottom-10 animate-bounce mr-auto ml-auto">
-            <button class="btn btn-circle btn-outline btn-primary">
+        <div class="grid grid-cols-1 content-center absolute bottom-10 animate-bounce w-screen">
+            <button class="btn btn-circle btn-outline btn-primary mr-auto ml-auto">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M11 21.883l-6.235-7.527-.765.644 7.521 9 7.479-9-.764-.645-6.236 7.529v-21.884h-1v21.883z"/></svg>
             </button>
         </div>
