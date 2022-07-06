@@ -40,7 +40,7 @@
     <div class="lg:container mx-auto flex flex-col justify-center items-center">
         <div class="card lg:card bg-neutral shadow-xl m-10 w-sm">
             <div class="avatar">
-                <div class="w-24 m-12 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+                <div class="w-24 m-12 rounded-full ring ring-accent ring-offset-base-100 ring-offset-2">
                 <img src="{authorPic}" alt="author">
                 </div>
               </div>
@@ -63,7 +63,7 @@
     </div>
 
     <div class="lg:container mx-auto flex flex-col justify-center items-center mb-10">
-        <h1 class="text-accent prose-xl">Subscribe to the Newsletter</h1>
+        <h1 class="text-accent prose prose-2xl">Subscribe to the Newsletter</h1>
             <form action="https://exoticmatterstudios.us9.list-manage.com/subscribe/post?u=dc5c4c9d852b9d701e2ad04e5&amp;id=8e1710bb73" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div class="form-control flex flex-row content-around p-10">
                     <input type="email" value="" id="mce-EMAIL" name="EMAIL" placeholder="email@example.com" class="input input-bordered input-primary w-full max-w-xs m-5 required email" />
