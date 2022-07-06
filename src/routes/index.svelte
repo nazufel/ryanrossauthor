@@ -29,9 +29,11 @@
             </div>
             </div>
         </div>
-        <button class="btn btn-circle btn-outline absolute bottom-10 animate-bounce btn-primary">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M11 21.883l-6.235-7.527-.765.644 7.521 9 7.479-9-.764-.645-6.236 7.529v-21.884h-1v21.883z"/></svg>
-          </button>
+        <div class=" flex items-center absolute bottom-10 animate-bounce">
+            <button class="btn btn-circle btn-outline btn-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M11 21.883l-6.235-7.527-.765.644 7.521 9 7.479-9-.764-.645-6.236 7.529v-21.884h-1v21.883z"/></svg>
+            </button>
+        </div>
     </div>
 
     <div class="flex flex-col w-full">
