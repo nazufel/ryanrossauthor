@@ -64,13 +64,13 @@
 
     <div class="lg:container mx-auto flex flex-col justify-center items-center mb-10">
         <h1 class="text-accent prose prose-2xl">Subscribe to the Newsletter</h1>
-            <form action="https://exoticmatterstudios.us9.list-manage.com/subscribe/post?u=dc5c4c9d852b9d701e2ad04e5&amp;id=8e1710bb73" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <form action="https://exoticmatterstudios.us9.list-manage.com/subscribe/post?u=dc5c4c9d852b9d701e2ad04e5&amp;id=8e1710bb73" method="post" target="_blank">
                 <div class="form-control flex flex-row content-around p-10">
-                    <input type="email" value="" id="mce-EMAIL" name="EMAIL" placeholder="email@example.com" class="input input-bordered input-primary w-full max-w-xs m-5 required email" />
+                    <input type="email" value="" name="EMAIL" placeholder="email@example.com" class="input input-bordered input-primary w-full max-w-xs m-5 required email" />
                     <button class="btn btn-primary m-5">Subscribe</button>
                 </div>
             </form>
-        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        <!-- <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script> -->
     </div>
 
     <!-- <div class="alert alert-success shadow-lg">
