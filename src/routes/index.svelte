@@ -29,6 +29,9 @@
             </div>
             </div>
         </div>
+        <button class="btn btn-circle btn-outline absolute bottom-10 animate-bounce btn-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M11 21.883l-6.235-7.527-.765.644 7.521 9 7.479-9-.764-.645-6.236 7.529v-21.884h-1v21.883z"/></svg>
+          </button>
     </div>
 
     <div class="flex flex-col w-full">
@@ -37,7 +40,7 @@
 
     <div class="lg:container mx-auto flex flex-col justify-center items-center">
         <div class="card lg:card bg-neutral shadow-xl m-10 w-sm">
-            <div class="avatar">
+            <div class="avatar" id="avatar">
                 <div class="w-24 m-12 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
                 <img src="{authorPic}" alt="author">
                 </div>
@@ -48,19 +51,14 @@
                 <p class="text-white">I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
                     I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurtling through space using amazing technology or trying to light a survival fire using ship wreckage in a hostile jungle, it&apos;s the people who we can identify with.</p>
                 <br />
-                <p class="text-white">If that sounds like something you&apos;re into, then please join my monthly newsletter. You&apos;ll get upates on writing progress, discount codes, product updates, and no spam.</p>
+                <p class="text-white">Science is also important to me. I try to keep the settings and scenes as close to plausible science, even if not possible right now. Space is big.</p>
+                <br />
+                <p class="text-white">If that sounds like something you&apos;re into, then please check back soon. I&apos;m working on a newletter. You&apos;ll get upates on writing progress, discount codes, product updates, early access, and no spam.</p>
+                <br />
+                <p class="text-white">Talk to you soon.</p>
               </div>
             </div>
           </div>
     </div>
-
-    <!-- <div class="lg:container mx-auto flex flex-col justify-center items-center">
-        <form action="https://exoticmatterstudios.us9.list-manage.com/subscribe/post?u=dc5c4c9d852b9d701e2ad04e5&amp;id=8e1710bb73" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <div class="form-control flex flex-row content-around p-10">
-                <input type="text" placeholder="email@example.com" class="input input-bordered input-primary w-full max-w-xs m-5" />
-                <button class="btn btn-primary m-5">Subscribe</button>
-            </div>
-        </form>
-    </div> -->
 </html>
 
