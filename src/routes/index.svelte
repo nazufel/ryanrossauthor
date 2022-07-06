@@ -2,30 +2,28 @@
     let authorPic = '/ryanross.png';
 </script>
 
-<!-- <style>
-
-    .hero {
-        animation: transitionIn 0.5s duration timing-function delay iteration-count direction fill-mode;
-    }
-    @keyframes transitionIn {
-        from {
-            opacity: 0;
-            transform: rotateX(-10deg)
-        }
-        
-        to {
-            opacity: 1;
-            transform: rotateX(0)
-
-        }
-    }
-</style> -->
-
 <html lang="en">
+
+    <style>
+        body {
+            animation: fadeInAnimation ease 4s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+
     <div class="hero">
         <div class="hero min-h-screen bg-base-200">
             <div class="hero-content text-center">
-            <div class="max-w-md transition ease-in">
+            <div class="max-w-md duration-500 relative transform transition-all translate-y-12 ease-out">
                 <h1 class="text-5xl text-secondary font-bold">Ryan Ross</h1>
                 <p class="py-6 text-white">Awesome stories are coming.</p>
             </div>
