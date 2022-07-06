@@ -53,7 +53,7 @@
                 <p class="text-white">I&apos;m Ryan. I make up stories and write them down. They usually take place in space, or on a distant planet and, of course, have fight scenes and explosions.
                     I like to focus on the people. It&apos;s the people who make the story worth writing and reading. Whether hurtling through space using amazing technology or trying to light a survival fire using ship wreckage in a hostile jungle, it&apos;s the people who we can identify with.</p>
                 <br />
-                <p class="text-white">Science is also important to me. I try to keep the settings and scenes as close to plausible science, even if not possible right now. Space is big.</p>
+                <p class="text-white">Science is also important to me. I try to keep the settings and scenes as close to plausible science as possible, even if that science isn&apos;t possible right now. Space is big. Overcoming its challenges from light delay to hard vacuum and radition makes for an antagonist all its own.</p>
                 <br />
                 <p class="text-white">If that sounds like something you&apos;re into, then please check back soon. I&apos;m working on a newletter. You&apos;ll get updates on writing progress, discount codes, exclusive reveals, early access, and no spam.</p>
                 <br />
