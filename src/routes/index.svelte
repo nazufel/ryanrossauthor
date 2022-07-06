@@ -53,7 +53,7 @@
                 <br />
                 <p class="text-white">Science is also important to me. I try to keep the settings and scenes as close to plausible science, even if not possible right now. Space is big.</p>
                 <br />
-                <p class="text-white">If that sounds like something you&apos;re into, then please check back soon. I&apos;m working on a newletter. You&apos;ll get updates on writing progress, discount codes, product updates, early access, and no spam.</p>
+                <p class="text-white">If that sounds like something you&apos;re into, then please check back soon. I&apos;m working on a newletter. You&apos;ll get updates on writing progress, discount codes, exclusive reveals, early access, and no spam.</p>
                 <br />
                 <p class="text-white">Talk to you soon.</p>
               </div>
