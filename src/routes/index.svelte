@@ -55,7 +55,7 @@
                 <br />
                 <p class="text-white">Science is also important to me. I try to keep the settings and scenes as close to plausible science as possible, even if that science isn&apos;t possible right now. Space is big. Overcoming its challenges from light delay to hard vacuum and radiation makes for an antagonist all its own.</p>
                 <br />
-                <p class="text-white">If that sounds like something you&apos;re into, then please check back soon. I&apos;m working on a newletter. You&apos;ll get updates on writing progress, discount codes, exclusive reveals, early access, and no spam.</p>
+                <p class="text-white">If that sounds like something you&apos;re into, then please check back soon. I&apos;m working on a newletter. You&apos;ll get updates on writing progress, discount codes, exclusive reveals, early access, and no spam. Full length sci-fi novels are comming in 2023. Make sure you're subscribed to the newsletter for announcements on them.</p>
                 <br />
                 <p class="text-white">Talk to you soon.</p>
               </div>
