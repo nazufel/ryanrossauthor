@@ -1,4 +1,5 @@
 <script>
+    import SignUp from '../components/SignUp.svelte';
     let authorPic = '/ryanross.png';
 </script>
 
@@ -62,5 +63,16 @@
             </div>
           </div>
     </div>
+
+    <div class="flex flex-col w-full">
+        <div class="divider"></div> 
+    </div>
+
+    <!-- <div class="lg:container mx-auto flex flex-col justify-center items-center m-5">
+        <h1 class="text-secondary text-xl">Subscribe to My Newletter</h1>
+        <div class="mt-10">
+            <SignUp />
+        </div>
+    </div> -->
 </html>
 
