@@ -7,8 +7,8 @@ mailchimp.setConfig({
 
 async function addMember() {
   const response = await mailchimp.lists.addListMember(, {
-    email_address: "mark@gmail.com",
-    status: "pending"});
+    email_address: "",
+    status: ""});
 
   console.log(response);
 }
